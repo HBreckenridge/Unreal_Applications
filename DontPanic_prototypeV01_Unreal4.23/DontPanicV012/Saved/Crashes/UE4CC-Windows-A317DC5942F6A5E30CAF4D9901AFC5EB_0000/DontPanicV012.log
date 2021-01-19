@@ -1,0 +1,567 @@
+﻿Log file open, 07/13/20 21:50:32
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogPakFile: Display: Found Pak file ../../../DontPanicV012/Content/Paks/DontPanicV012-WindowsNoEditor.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../DontPanicV012/Content/Paks/DontPanicV012-WindowsNoEditor.pak.
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.390733
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin HoudiniNiagara
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin NiagaraExtras
+LogPluginManager: Mounting plugin BlueprintMaterialTextureNodes
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin HAPMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin SampleToolsEditorMode
+LogPluginManager: Mounting plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting plugin VictoryBPLibrary
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin EasyMultiSave
+LogPluginManager: Mounting plugin MediaFrameworkUtilities
+LogPluginManager: Mounting plugin MediaIOFramework
+LogPluginManager: Mounting plugin OpenCVLensDistortion
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-8386587
+LogInit: Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Aug 31 2019 02:36:32
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: D:/TOCHEESEHDD/DP_Builds/WindowsNoEditor/WindowsNoEditor/DontPanicV012/Binaries/Win64/
+LogInit: Installed Engine Build: 0
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 2097152 objects, including 1 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogStreaming: Display: Async Loading initialized: Event Driven Loader: true, Async Loading Thread: false, Async Post Load: true
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.07.14-04.50.32:890][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+[2020.07.14-04.50.32:890][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.07.14-04.50.32:890][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [../../../DontPanicV012/Saved/Config/WindowsNoEditor/Engine.ini]
+[2020.07.14-04.50.32:890][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.07.14-04.50.32:890][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2020.07.14-04.50.32:890][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:1]]
+[2020.07.14-04.50.32:890][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2020.07.14-04.50.32:890][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:0]]
+[2020.07.14-04.50.32:890][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:0]]
+[2020.07.14-04.50.32:891][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:0]]
+[2020.07.14-04.50.32:891][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:0]]
+[2020.07.14-04.50.32:891][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:0]]
+[2020.07.14-04.50.32:891][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:0]]
+[2020.07.14-04.50.32:891][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:0]]
+[2020.07.14-04.50.32:891][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:0]]
+[2020.07.14-04.50.32:891][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [../../../DontPanicV012/Saved/Config/WindowsNoEditor/Engine.ini]
+[2020.07.14-04.50.32:891][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [../../../DontPanicV012/Saved/Config/WindowsNoEditor/Engine.ini]
+[2020.07.14-04.50.32:891][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.07.14-04.50.32:891][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.07.14-04.50.32:891][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.07.14-04.50.32:891][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.07.14-04.50.32:891][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.07.14-04.50.32:891][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.07.14-04.50.32:891][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:0]]
+[2020.07.14-04.50.32:891][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.07.14-04.50.32:891][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.07.14-04.50.32:891][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.07.14-04.50.32:891][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.07.14-04.50.32:891][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.07.14-04.50.32:891][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.07.14-04.50.32:891][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [../../../DontPanicV012/Saved/Config/WindowsNoEditor/Engine.ini]
+[2020.07.14-04.50.32:891][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.07.14-04.50.32:891][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.07.14-04.50.32:891][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.07.14-04.50.32:891][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.07.14-04.50.32:891][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.07.14-04.50.32:891][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.07.14-04.50.32:891][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.07.14-04.50.32:891][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.07.14-04.50.32:891][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.07.14-04.50.32:891][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.07.14-04.50.32:891][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.07.14-04.50.32:891][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.07.14-04.50.32:891][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.07.14-04.50.32:891][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [../../../DontPanicV012/Saved/Config/WindowsNoEditor/Engine.ini]
+[2020.07.14-04.50.32:896][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [../../../DontPanicV012/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.07.14-04.50.32:896][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.07.14-04.50.32:896][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.07.14-04.50.32:896][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [../../../DontPanicV012/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.07.14-04.50.32:896][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.07.14-04.50.32:896][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [../../../DontPanicV012/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.07.14-04.50.32:896][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.07.14-04.50.32:896][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.07.14-04.50.32:896][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.07.14-04.50.32:896][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.07.14-04.50.32:896][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.07.14-04.50.32:896][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.07.14-04.50.32:896][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.07.14-04.50.32:896][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.07.14-04.50.32:896][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.07.14-04.50.32:896][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.07.14-04.50.32:896][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.07.14-04.50.32:896][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.07.14-04.50.32:896][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.07.14-04.50.32:896][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.07.14-04.50.32:896][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.07.14-04.50.32:896][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.07.14-04.50.32:896][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.07.14-04.50.32:896][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.07.14-04.50.32:896][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [../../../DontPanicV012/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.07.14-04.50.32:896][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.07.14-04.50.32:896][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.07.14-04.50.32:896][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.07.14-04.50.32:896][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.07.14-04.50.32:896][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.07.14-04.50.32:896][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.07.14-04.50.32:896][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.07.14-04.50.32:896][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.07.14-04.50.32:896][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.07.14-04.50.32:896][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.07.14-04.50.32:896][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.07.14-04.50.32:896][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.07.14-04.50.32:896][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.07.14-04.50.32:896][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.07.14-04.50.32:897][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.07.14-04.50.32:897][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.07.14-04.50.32:897][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.07.14-04.50.32:897][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.07.14-04.50.32:897][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.07.14-04.50.32:897][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.07.14-04.50.32:897][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.07.14-04.50.32:897][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.07.14-04.50.32:897][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.07.14-04.50.32:897][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.07.14-04.50.32:897][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.07.14-04.50.32:897][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.07.14-04.50.32:897][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.07.14-04.50.32:897][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.07.14-04.50.32:897][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.07.14-04.50.32:897][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.07.14-04.50.32:897][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [../../../DontPanicV012/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.07.14-04.50.32:897][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.07.14-04.50.32:897][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.07.14-04.50.32:897][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.07.14-04.50.32:897][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.07.14-04.50.32:897][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.07.14-04.50.32:897][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.07.14-04.50.32:897][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.07.14-04.50.32:897][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.07.14-04.50.32:897][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [../../../DontPanicV012/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.07.14-04.50.32:897][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.07.14-04.50.32:897][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.07.14-04.50.32:897][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.07.14-04.50.32:897][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.07.14-04.50.32:897][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.07.14-04.50.32:897][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.07.14-04.50.32:897][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.07.14-04.50.32:897][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.07.14-04.50.32:897][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.07.14-04.50.32:897][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.07.14-04.50.32:897][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.07.14-04.50.32:897][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.07.14-04.50.32:897][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.07.14-04.50.32:897][  0]LogConfig: Setting CVar [[r.DetailLevel:3]]
+[2020.07.14-04.50.32:897][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [../../../DontPanicV012/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.07.14-04.50.32:897][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.07.14-04.50.32:897][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.07.14-04.50.32:898][  0]LogModuleManager: Warning: ModuleManager: Module 'ExampleDeviceProfileSelector' not found - its StaticallyLinkedModuleInitializers function is null.
+[2020.07.14-04.50.32:898][  0]LogInit: Applying CVar settings loaded from the selected device profile: [WindowsNoEditor]
+[2020.07.14-04.50.32:901][  0]LogHAL: Display: Platform has ~ 16 GB [17073336320 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.07.14-04.50.32:901][  0]LogInit: Going up to parent DeviceProfile [Windows]
+[2020.07.14-04.50.32:901][  0]LogInit: Going up to parent DeviceProfile []
+[2020.07.14-04.50.32:901][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [../../../DontPanicV012/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.07.14-04.50.32:901][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.07.14-04.50.32:901][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.07.14-04.50.32:901][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [../../../DontPanicV012/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.07.14-04.50.32:901][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.07.14-04.50.32:901][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [../../../DontPanicV012/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.07.14-04.50.32:901][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.07.14-04.50.32:901][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.07.14-04.50.32:901][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.07.14-04.50.32:901][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.07.14-04.50.32:901][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.07.14-04.50.32:901][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.07.14-04.50.32:901][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.07.14-04.50.32:901][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.07.14-04.50.32:901][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.07.14-04.50.32:901][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.07.14-04.50.32:901][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.07.14-04.50.32:901][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.07.14-04.50.32:901][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.07.14-04.50.32:901][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.07.14-04.50.32:901][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.07.14-04.50.32:901][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.07.14-04.50.32:901][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.07.14-04.50.32:902][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.07.14-04.50.32:902][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [../../../DontPanicV012/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.07.14-04.50.32:902][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.07.14-04.50.32:902][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.07.14-04.50.32:902][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.07.14-04.50.32:902][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.07.14-04.50.32:902][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.07.14-04.50.32:902][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.07.14-04.50.32:902][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.07.14-04.50.32:902][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.07.14-04.50.32:902][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.07.14-04.50.32:902][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.07.14-04.50.32:902][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.07.14-04.50.32:902][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.07.14-04.50.32:902][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.07.14-04.50.32:902][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.07.14-04.50.32:902][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.07.14-04.50.32:902][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.07.14-04.50.32:902][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.07.14-04.50.32:902][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.07.14-04.50.32:902][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.07.14-04.50.32:902][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.07.14-04.50.32:902][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.07.14-04.50.32:902][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.07.14-04.50.32:902][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.07.14-04.50.32:902][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.07.14-04.50.32:902][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.07.14-04.50.32:902][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.07.14-04.50.32:902][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.07.14-04.50.32:902][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.07.14-04.50.32:902][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.07.14-04.50.32:902][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.07.14-04.50.32:902][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [../../../DontPanicV012/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.07.14-04.50.32:902][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.07.14-04.50.32:902][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.07.14-04.50.32:902][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.07.14-04.50.32:902][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.07.14-04.50.32:902][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.07.14-04.50.32:902][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.07.14-04.50.32:902][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.07.14-04.50.32:902][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.07.14-04.50.32:902][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [../../../DontPanicV012/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.07.14-04.50.32:902][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.07.14-04.50.32:902][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.07.14-04.50.32:902][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.07.14-04.50.32:902][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.07.14-04.50.32:902][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.07.14-04.50.32:902][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.07.14-04.50.32:902][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.07.14-04.50.32:902][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.07.14-04.50.32:902][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.07.14-04.50.32:902][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.07.14-04.50.32:902][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.07.14-04.50.32:902][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.07.14-04.50.32:902][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.07.14-04.50.32:902][  0]LogConfig: Setting CVar [[r.DetailLevel:3]]
+[2020.07.14-04.50.32:902][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [../../../DontPanicV012/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.07.14-04.50.32:902][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.07.14-04.50.32:902][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.07.14-04.50.32:902][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.07.14-04.50.32:902][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.07.14-04.50.32:902][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.07.14-04.50.32:902][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.07.14-04.50.32:902][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [../../../DontPanicV012/Saved/Config/WindowsNoEditor/Engine.ini]
+[2020.07.14-04.50.32:902][  0]LogInit: Computer: DESKTOP-QHMNGDJ
+[2020.07.14-04.50.32:902][  0]LogInit: User: d3r9P5
+[2020.07.14-04.50.32:902][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.07.14-04.50.32:902][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.07.14-04.50.32:903][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.07.14-04.50.32:903][  0]LogMemory: Platform Memory Stats for WindowsNoEditor
+[2020.07.14-04.50.32:903][  0]LogMemory: Process Physical Memory: 59.53 MB used, 59.53 MB peak
+[2020.07.14-04.50.32:903][  0]LogMemory: Process Virtual Memory: 75.77 MB used, 75.77 MB peak
+[2020.07.14-04.50.32:903][  0]LogMemory: Physical Memory: 3585.37 MB used,  12697.04 MB free, 16282.40 MB total
+[2020.07.14-04.50.32:903][  0]LogMemory: Virtual Memory: 4489.63 MB used,  134213240.00 MB free, 134217728.00 MB total
+[2020.07.14-04.50.32:907][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.07.14-04.50.33:021][  0]LogInit: Using OS detected language (en-US).
+[2020.07.14-04.50.33:021][  0]LogInit: Using OS detected locale (en-US).
+[2020.07.14-04.50.33:021][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.07.14-04.50.33:065][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.07.14-04.50.33:065][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.07.14-04.50.33:090][  0]LogD3D11RHI: D3D11 adapters:
+[2020.07.14-04.50.33:162][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060' (Feature Level 11_0)
+[2020.07.14-04.50.33:162][  0]LogD3D11RHI:       5980/0/8141 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.07.14-04.50.33:187][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2020.07.14-04.50.33:187][  0]LogD3D11RHI:       128/0/8141 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.07.14-04.50.33:191][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.07.14-04.50.33:191][  0]LogD3D11RHI:       0/0/8141 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.07.14-04.50.33:191][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.07.14-04.50.33:205][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.07.14-04.50.33:205][  0]LogD3D11RHI:     GPU DeviceId: 0x1f11 (for the marketing name, search the web for "GPU Device Id")
+[2020.07.14-04.50.33:206][  0]LogWindows: EnumDisplayDevices:
+[2020.07.14-04.50.33:206][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2020.07.14-04.50.33:206][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.07.14-04.50.33:206][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.07.14-04.50.33:206][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060' (P:0 D:1)
+[2020.07.14-04.50.33:206][  0]LogWindows:    4. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2020.07.14-04.50.33:207][  0]LogWindows:    5. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2020.07.14-04.50.33:207][  0]LogWindows:    6. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2020.07.14-04.50.33:207][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2020.07.14-04.50.33:207][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2020.07.14-04.50.33:207][  0]LogD3D11RHI:   Driver Version: 451.67 (internal:27.21.14.5167, unified:451.67)
+[2020.07.14-04.50.33:207][  0]LogD3D11RHI:      Driver Date: 7-5-2020
+[2020.07.14-04.50.33:207][  0]LogRHI: Texture pool is 4186 MB (70% of 5980 MB)
+[2020.07.14-04.50.33:251][  0]LogD3D11RHI: Async texture creation enabled
+[2020.07.14-04.50.33:271][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.07.14-04.50.33:321][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.07.14-04.50.33:339][  0]LogSlate: Using FreeType 2.6.0
+[2020.07.14-04.50.33:342][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.07.14-04.50.33:415][  0]LogInit: Using OS detected language (en-US).
+[2020.07.14-04.50.33:415][  0]LogInit: Using OS detected locale (en-US).
+[2020.07.14-04.50.33:415][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the language.
+[2020.07.14-04.50.33:415][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the locale.
+[2020.07.14-04.50.33:415][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2020.07.14-04.50.33:415][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2020.07.14-04.50.33:416][  0]LogTextLocalizationManager: Compacting localization data took   0.49ms
+[2020.07.14-04.50.33:423][  0]LogAssetRegistry: FAssetRegistry took 0.0063 seconds to start up
+[2020.07.14-04.50.33:548][  0]LogStreaming: Display: Flushing async loaders.
+[2020.07.14-04.50.33:549][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.000321 seconds
+[2020.07.14-04.50.33:550][  0]LogPakFile: New pak file ../../../DontPanicV012/Content/Paks/DontPanicV012-WindowsNoEditor.pak added to pak precacher.
+[2020.07.14-04.50.33:573][  0]LogModuleManager: Warning: ModuleManager: Module 'ExampleDeviceProfileSelector' not found - its StaticallyLinkedModuleInitializers function is null.
+[2020.07.14-04.50.33:600][  0]LogNetVersion: DontPanicV012 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 1310470472)
+[2020.07.14-04.50.33:761][  0]LogMoviePlayer: Initializing movie player
+[2020.07.14-04.50.33:792][  0]LogUObjectArray: 40747 objects as part of root set at end of initial load.
+[2020.07.14-04.50.33:792][  0]LogUObjectArray: 2 objects are not in the root set, but can never be destroyed because they are in the DisregardForGC set.
+[2020.07.14-04.50.33:792][  0]LogUObjectAllocator: 6079208 out of 0 bytes used by permanent object pool.
+[2020.07.14-04.50.33:792][  0]LogUObjectArray: CloseDisregardForGC: 40747/40747 objects in disregard for GC pool
+[2020.07.14-04.50.33:796][  0]LogEngine: Initializing Engine...
+[2020.07.14-04.50.33:798][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2020.07.14-04.50.33:933][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.07.14-04.50.33:954][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.07.14-04.50.33:971][  0]LogInit: XAudio2 using 'Onlap1503 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.07.14-04.50.34:057][  0]LogInit: FAudioDevice initialized.
+[2020.07.14-04.50.34:059][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.07.14-04.50.34:059][  0]LogInit: Texture streaming: Enabled
+[2020.07.14-04.50.34:128][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.14-04.50.34:130][  0]LogInit: Display: Game Engine Initialized.
+[2020.07.14-04.50.34:131][  0]LogInit: Display: Starting Game.
+[2020.07.14-04.50.34:132][  0]LogNet: Browse: /Game/InitLevel?Name=Player
+[2020.07.14-04.50.34:132][  0]LogLoad: LoadMap: /Game/InitLevel?Name=Player
+[2020.07.14-04.50.34:132][  0]LogWorld: BeginTearingDown for /Temp/Untitled_0
+[2020.07.14-04.50.34:136][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.07.14-04.50.34:149][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2020.07.14-04.50.34:162][  0]LogAIModule: Creating AISystem for world InitLevel
+[2020.07.14-04.50.34:163][  0]LogLoad: Game class is 'HypnoToadMode_C'
+[2020.07.14-04.50.34:168][  0]LogWorld: Bringing World /Game/InitLevel.InitLevel up for play (max tick rate 0) at 2020.07.13-21.50.34
+[2020.07.14-04.50.34:169][  0]LogWorld: Bringing up level for play took: 0.004365
+[2020.07.14-04.50.34:171][  0]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.07.14-04.50.34:178][  0]LogUMG: Display: Widget Class Screen_0_1_HorizontalRight_C - Loaded Fast Template.
+[2020.07.14-04.50.34:191][  0]LogBlueprintUserMessages: [OutputSettingsPrimaryButtons] 0x0
+[2020.07.14-04.50.34:191][  0]LogBlueprintUserMessages: [Screen_0_1_HorizontalRight_C_2147482557] 0x0
+[2020.07.14-04.50.34:191][  0]LogBlueprintUserMessages: [OutputSettingsPrimaryButtons] 0x336
+[2020.07.14-04.50.34:191][  0]LogBlueprintUserMessages: [Screen_0_1_HorizontalRight_C_2147482557] 0x336
+[2020.07.14-04.50.34:191][  0]LogBlueprintUserMessages: [OutputSettingsPrimaryButtons] 336x336
+[2020.07.14-04.50.34:191][  0]LogBlueprintUserMessages: [Screen_0_1_HorizontalRight_C_2147482557] 336x336
+[2020.07.14-04.50.34:191][  0]LogBlueprintUserMessages: [HeaderBarMenu] Building HeaderTabs
+[2020.07.14-04.50.34:191][  0]LogUMG: Display: Widget Class MainHeaderButton__C - Loaded Fast Template.
+[2020.07.14-04.50.34:192][  0]LogBlueprintUserMessages: [HeaderBarMenu] 0
+[2020.07.14-04.50.34:192][  0]LogBlueprintUserMessages: [HeaderBarMenu] 1
+[2020.07.14-04.50.34:192][  0]LogBlueprintUserMessages: [HeaderBarMenu] 2
+[2020.07.14-04.50.34:192][  0]LogBlueprintUserMessages: [HeaderBarMenu] 3
+[2020.07.14-04.50.34:192][  0]LogBlueprintUserMessages: [HeaderBarMenu] 4
+[2020.07.14-04.50.34:192][  0]LogBlueprintUserMessages: [HeaderBarMenu] 5
+[2020.07.14-04.50.34:192][  0]LogBlueprintUserMessages: [HeaderBarMenu] 6
+[2020.07.14-04.50.34:193][  0]LogBlueprintUserMessages: [HapLibrarian_2] Hello
+[2020.07.14-04.50.34:193][  0]LogBlueprintUserMessages: [HapLibrarian_2] file://D:/TOCHEESEHDD/DP_Builds/WindowsNoEditor/WindowsNoEditor/DontPanicV012/Content/Movies/Media/HapLib/13- fan room.mov
+[2020.07.14-04.50.34:198][  0]LogBlueprintUserMessages: [HapLibrarian_2] Hello
+[2020.07.14-04.50.34:198][  0]LogBlueprintUserMessages: [HapLibrarian_2] file://D:/TOCHEESEHDD/DP_Builds/WindowsNoEditor/WindowsNoEditor/DontPanicV012/Content/Movies/Media/HapLib/13- fan room.mov
+[2020.07.14-04.50.34:200][  0]LogBlueprintUserMessages: [HapLibrarian_2] Hello
+[2020.07.14-04.50.34:201][  0]LogBlueprintUserMessages: [HapLibrarian_2] file://D:/TOCHEESEHDD/DP_Builds/WindowsNoEditor/WindowsNoEditor/DontPanicV012/Content/Movies/Media/HapLib/13- fan room.mov
+[2020.07.14-04.50.34:203][  0]LogBlueprintUserMessages: [HapLibrarian_2] Hello
+[2020.07.14-04.50.34:203][  0]LogBlueprintUserMessages: [HapLibrarian_2] file://D:/TOCHEESEHDD/DP_Builds/WindowsNoEditor/WindowsNoEditor/DontPanicV012/Content/Movies/Media/HapLib/13- fan room.mov
+[2020.07.14-04.50.34:205][  0]LogBlueprintUserMessages: [HapLibrarian_2] Hello
+[2020.07.14-04.50.34:206][  0]LogBlueprintUserMessages: [HapLibrarian_2] file://D:/TOCHEESEHDD/DP_Builds/WindowsNoEditor/WindowsNoEditor/DontPanicV012/Content/Movies/Media/HapLib/13- fan room.mov
+[2020.07.14-04.50.34:206][  0]LogBlueprintUserMessages: [HapLibrarian_2] Hello
+[2020.07.14-04.50.34:206][  0]LogBlueprintUserMessages: [HapLibrarian_2] file://D:/TOCHEESEHDD/DP_Builds/WindowsNoEditor/WindowsNoEditor/DontPanicV012/Content/Movies/Media/HapLib/13- fan room.mov
+[2020.07.14-04.50.34:207][  0]LogBlueprintUserMessages: [HapLibrarian_2] Hello
+[2020.07.14-04.50.34:207][  0]LogBlueprintUserMessages: [HapLibrarian_2] file://D:/TOCHEESEHDD/DP_Builds/WindowsNoEditor/WindowsNoEditor/DontPanicV012/Content/Movies/Media/HapLib/13- fan room.mov
+[2020.07.14-04.50.34:208][  0]LogBlueprintUserMessages: [HapLibrarian_2] Hello
+[2020.07.14-04.50.34:208][  0]LogBlueprintUserMessages: [HapLibrarian_2] file://D:/TOCHEESEHDD/DP_Builds/WindowsNoEditor/WindowsNoEditor/DontPanicV012/Content/Movies/Media/HapLib/13- fan room.mov
+[2020.07.14-04.50.34:209][  0]LogBlueprintUserMessages: [HapLibrarian_2] Hello
+[2020.07.14-04.50.34:209][  0]LogBlueprintUserMessages: [HapLibrarian_2] file://D:/TOCHEESEHDD/DP_Builds/WindowsNoEditor/WindowsNoEditor/DontPanicV012/Content/Movies/Media/HapLib/13- fan room.mov
+[2020.07.14-04.50.34:210][  0]LogBlueprintUserMessages: [HapLibrarian_2] Hello
+[2020.07.14-04.50.34:210][  0]LogBlueprintUserMessages: [HapLibrarian_2] file://D:/TOCHEESEHDD/DP_Builds/WindowsNoEditor/WindowsNoEditor/DontPanicV012/Content/Movies/Media/HapLib/13- fan room.mov
+[2020.07.14-04.50.34:211][  0]LogBlueprintUserMessages: [HapLibrarian_2] Hello
+[2020.07.14-04.50.34:211][  0]LogBlueprintUserMessages: [HapLibrarian_2] file://D:/TOCHEESEHDD/DP_Builds/WindowsNoEditor/WindowsNoEditor/DontPanicV012/Content/Movies/Media/HapLib/13- fan room.mov
+[2020.07.14-04.50.34:212][  0]LogBlueprintUserMessages: [HapLibrarian_2] Hello
+[2020.07.14-04.50.34:212][  0]LogBlueprintUserMessages: [HapLibrarian_2] file://D:/TOCHEESEHDD/DP_Builds/WindowsNoEditor/WindowsNoEditor/DontPanicV012/Content/Movies/Media/HapLib/13- fan room.mov
+[2020.07.14-04.50.34:213][  0]LogBlueprintUserMessages: [HapLibrarian_2] Hello
+[2020.07.14-04.50.34:213][  0]LogBlueprintUserMessages: [HapLibrarian_2] file://D:/TOCHEESEHDD/DP_Builds/WindowsNoEditor/WindowsNoEditor/DontPanicV012/Content/Movies/Media/HapLib/13- fan room.mov
+[2020.07.14-04.50.34:214][  0]LogBlueprintUserMessages: [HapLibrarian_2] Hello
+[2020.07.14-04.50.34:214][  0]LogBlueprintUserMessages: [HapLibrarian_2] file://D:/TOCHEESEHDD/DP_Builds/WindowsNoEditor/WindowsNoEditor/DontPanicV012/Content/Movies/Media/HapLib/13- fan room.mov
+[2020.07.14-04.50.34:215][  0]LogBlueprintUserMessages: [HapLibrarian_2] Hello
+[2020.07.14-04.50.34:215][  0]LogBlueprintUserMessages: [HapLibrarian_2] file://D:/TOCHEESEHDD/DP_Builds/WindowsNoEditor/WindowsNoEditor/DontPanicV012/Content/Movies/Media/HapLib/13- fan room.mov
+[2020.07.14-04.50.34:216][  0]LogBlueprintUserMessages: [HapLibrarian_2] Hello
+[2020.07.14-04.50.34:216][  0]LogBlueprintUserMessages: [HapLibrarian_2] file://D:/TOCHEESEHDD/DP_Builds/WindowsNoEditor/WindowsNoEditor/DontPanicV012/Content/Movies/Media/HapLib/13- fan room.mov
+[2020.07.14-04.50.34:217][  0]LogBlueprintUserMessages: [HapLibrarian_2] Hello
+[2020.07.14-04.50.34:217][  0]LogBlueprintUserMessages: [HapLibrarian_2] file://D:/TOCHEESEHDD/DP_Builds/WindowsNoEditor/WindowsNoEditor/DontPanicV012/Content/Movies/Media/HapLib/13- fan room.mov
+[2020.07.14-04.50.34:217][  0]LogBlueprintUserMessages: [HapLibrarian_2] Hello
+[2020.07.14-04.50.34:218][  0]LogBlueprintUserMessages: [HapLibrarian_2] file://D:/TOCHEESEHDD/DP_Builds/WindowsNoEditor/WindowsNoEditor/DontPanicV012/Content/Movies/Media/HapLib/13- fan room.mov
+[2020.07.14-04.50.34:219][  0]LogBlueprintUserMessages: [HapLibrarian_2] Hello
+[2020.07.14-04.50.34:219][  0]LogBlueprintUserMessages: [HapLibrarian_2] file://D:/TOCHEESEHDD/DP_Builds/WindowsNoEditor/WindowsNoEditor/DontPanicV012/Content/Movies/Media/HapLib/13- fan room.mov
+[2020.07.14-04.50.34:219][  0]LogBlueprintUserMessages: [HapLibrarian_2] Hello
+[2020.07.14-04.50.34:220][  0]LogBlueprintUserMessages: [HapLibrarian_2] file://D:/TOCHEESEHDD/DP_Builds/WindowsNoEditor/WindowsNoEditor/DontPanicV012/Content/Movies/Media/HapLib/13- fan room.mov
+[2020.07.14-04.50.34:220][  0]LogBlueprintUserMessages: [HapLibrarian_2] Hello
+[2020.07.14-04.50.34:221][  0]LogBlueprintUserMessages: [HapLibrarian_2] file://D:/TOCHEESEHDD/DP_Builds/WindowsNoEditor/WindowsNoEditor/DontPanicV012/Content/Movies/Media/HapLib/13- fan room.mov
+[2020.07.14-04.50.34:221][  0]LogBlueprintUserMessages: [HapLibrarian_2] Hello
+[2020.07.14-04.50.34:222][  0]LogBlueprintUserMessages: [HapLibrarian_2] file://D:/TOCHEESEHDD/DP_Builds/WindowsNoEditor/WindowsNoEditor/DontPanicV012/Content/Movies/Media/HapLib/13- fan room.mov
+[2020.07.14-04.50.34:222][  0]LogBlueprintUserMessages: [HapLibrarian_2] Hello
+[2020.07.14-04.50.34:223][  0]LogBlueprintUserMessages: [HapLibrarian_2] file://D:/TOCHEESEHDD/DP_Builds/WindowsNoEditor/WindowsNoEditor/DontPanicV012/Content/Movies/Media/HapLib/13- fan room.mov
+[2020.07.14-04.50.34:223][  0]LogBlueprintUserMessages: [HapLibrarian_2] Hello
+[2020.07.14-04.50.34:224][  0]LogBlueprintUserMessages: [HapLibrarian_2] file://D:/TOCHEESEHDD/DP_Builds/WindowsNoEditor/WindowsNoEditor/DontPanicV012/Content/Movies/Media/HapLib/13- fan room.mov
+[2020.07.14-04.50.34:230][  0]LogLoad: Took 0.098211 seconds to LoadMap(/Game/InitLevel)
+[2020.07.14-04.50.34:233][  0]LogSlate: Took 0.000089 seconds to synchronously load lazily loaded font '../../../DontPanicV012/Content/MyInitAssets/Fonts/gilsanub.ufont' (72K)
+[2020.07.14-04.50.34:236][  0]LogSlate: Took 0.001436 seconds to synchronously load lazily loaded font '../../../Engine/Content/EngineFonts/Faces/RobotoBold.ufont' (160K)
+[2020.07.14-04.50.34:251][  0]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2020.07.14-04.50.34:251][  0]LogSlate: Took 0.001424 seconds to synchronously load lazily loaded font '../../../Engine/Content/EngineFonts/Faces/RobotoRegular.ufont' (155K)
+[2020.07.14-04.50.34:258][  0]LogLoad: (Engine Initialization) Total time: 2.12 seconds
+[2020.07.14-04.50.34:359][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.07.14-04.50.34:415][  0]LogSlate: Slate font cache was flushed
+[2020.07.14-04.50.34:418][  1]LogSlate: Took 0.000073 seconds to synchronously load lazily loaded font '../../../Engine/Content/EngineFonts/Faces/RobotoRegular.ufont' (155K)
+[2020.07.14-04.50.34:422][  1]LogSlate: Took 0.000061 seconds to synchronously load lazily loaded font '../../../DontPanicV012/Content/MyInitAssets/Fonts/gilsanub.ufont' (72K)
+[2020.07.14-04.50.34:424][  1]LogSlate: Took 0.000272 seconds to synchronously load lazily loaded font '../../../Engine/Content/EngineFonts/Faces/RobotoBold.ufont' (160K)
+[2020.07.14-04.50.34:513][  7]LogBlueprintUserMessages: [HapLibrarian_2] file://D:/TOCHEESEHDD/DP_Builds/WindowsNoEditor/WindowsNoEditor/DontPanicV012/Content/Movies/Media/HapLib/14 - trace.mov
+[2020.07.14-04.50.34:722][ 16]LogUObjectGlobals: Warning: Gamethread hitch waiting for resource cleanup on a UObject (MaterialInstanceDynamic /Engine/Transient.ThumbMaker00) overwrite took   0.05ms. Fix the higher level code so that this does not happen.
+[2020.07.14-04.50.34:722][ 16]LogBlueprintUserMessages: [HapLibrarian_2] file://D:/TOCHEESEHDD/DP_Builds/WindowsNoEditor/WindowsNoEditor/DontPanicV012/Content/Movies/Media/HapLib/2. Water Drop 1.mov
+[2020.07.14-04.50.34:932][ 26]LogUObjectGlobals: Warning: Gamethread hitch waiting for resource cleanup on a UObject (MaterialInstanceDynamic /Engine/Transient.ThumbMaker00) overwrite took   0.02ms. Fix the higher level code so that this does not happen.
+[2020.07.14-04.50.34:932][ 26]LogBlueprintUserMessages: [HapLibrarian_2] file://D:/TOCHEESEHDD/DP_Builds/WindowsNoEditor/WindowsNoEditor/DontPanicV012/Content/Movies/Media/HapLib/3. Neon Rain.mov
+[2020.07.14-04.50.35:158][ 28]LogUObjectGlobals: Warning: Gamethread hitch waiting for resource cleanup on a UObject (MaterialInstanceDynamic /Engine/Transient.ThumbMaker00) overwrite took   2.66ms. Fix the higher level code so that this does not happen.
+[2020.07.14-04.50.35:158][ 28]LogBlueprintUserMessages: [HapLibrarian_2] file://D:/TOCHEESEHDD/DP_Builds/WindowsNoEditor/WindowsNoEditor/DontPanicV012/Content/Movies/Media/HapLib/3. Water Drop 2.mov
+[2020.07.14-04.50.35:358][ 40]LogUObjectGlobals: Warning: Gamethread hitch waiting for resource cleanup on a UObject (MaterialInstanceDynamic /Engine/Transient.ThumbMaker00) overwrite took   0.03ms. Fix the higher level code so that this does not happen.
+[2020.07.14-04.50.35:359][ 40]LogBlueprintUserMessages: [HapLibrarian_2] file://D:/TOCHEESEHDD/DP_Builds/WindowsNoEditor/WindowsNoEditor/DontPanicV012/Content/Movies/Media/HapLib/4. Jungle  Fly over.mov
+[2020.07.14-04.50.35:559][ 42]LogUObjectGlobals: Warning: Gamethread hitch waiting for resource cleanup on a UObject (MaterialInstanceDynamic /Engine/Transient.ThumbMaker00) overwrite took   0.69ms. Fix the higher level code so that this does not happen.
+[2020.07.14-04.50.35:559][ 42]LogBlueprintUserMessages: [HapLibrarian_2] file://D:/TOCHEESEHDD/DP_Builds/WindowsNoEditor/WindowsNoEditor/DontPanicV012/Content/Movies/Media/HapLib/4. Water Drop 3.mov
+[2020.07.14-04.50.35:775][ 55]LogUObjectGlobals: Warning: Gamethread hitch waiting for resource cleanup on a UObject (MaterialInstanceDynamic /Engine/Transient.ThumbMaker00) overwrite took   0.02ms. Fix the higher level code so that this does not happen.
+[2020.07.14-04.50.35:775][ 55]LogBlueprintUserMessages: [HapLibrarian_2] file://D:/TOCHEESEHDD/DP_Builds/WindowsNoEditor/WindowsNoEditor/DontPanicV012/Content/Movies/Media/HapLib/5. Water Drop 4.mov
+[2020.07.14-04.50.35:975][ 62]LogUObjectGlobals: Warning: Gamethread hitch waiting for resource cleanup on a UObject (MaterialInstanceDynamic /Engine/Transient.ThumbMaker00) overwrite took   0.00ms. Fix the higher level code so that this does not happen.
+[2020.07.14-04.50.35:975][ 62]LogBlueprintUserMessages: [HapLibrarian_2] file://D:/TOCHEESEHDD/DP_Builds/WindowsNoEditor/WindowsNoEditor/DontPanicV012/Content/Movies/Media/HapLib/6-Bolt.mov
+[2020.07.14-04.50.36:178][ 65]LogUObjectGlobals: Warning: Gamethread hitch waiting for resource cleanup on a UObject (MaterialInstanceDynamic /Engine/Transient.ThumbMaker00) overwrite took   0.03ms. Fix the higher level code so that this does not happen.
+[2020.07.14-04.50.36:179][ 65]LogBlueprintUserMessages: [HapLibrarian_2] file://D:/TOCHEESEHDD/DP_Builds/WindowsNoEditor/WindowsNoEditor/DontPanicV012/Content/Movies/Media/HapLib/7- Glow Worms.mov
+[2020.07.14-04.50.36:382][ 77]LogUObjectGlobals: Warning: Gamethread hitch waiting for resource cleanup on a UObject (MaterialInstanceDynamic /Engine/Transient.ThumbMaker00) overwrite took   0.04ms. Fix the higher level code so that this does not happen.
+[2020.07.14-04.50.36:382][ 77]LogBlueprintUserMessages: [HapLibrarian_2] file://D:/TOCHEESEHDD/DP_Builds/WindowsNoEditor/WindowsNoEditor/DontPanicV012/Content/Movies/Media/HapLib/7- strobe.mov
+[2020.07.14-04.50.36:592][ 86]LogUObjectGlobals: Warning: Gamethread hitch waiting for resource cleanup on a UObject (MaterialInstanceDynamic /Engine/Transient.ThumbMaker00) overwrite took   0.04ms. Fix the higher level code so that this does not happen.
+[2020.07.14-04.50.36:592][ 86]LogBlueprintUserMessages: [HapLibrarian_2] file://D:/TOCHEESEHDD/DP_Builds/WindowsNoEditor/WindowsNoEditor/DontPanicV012/Content/Movies/Media/HapLib/7-Logo.mov
+[2020.07.14-04.50.36:808][ 98]LogUObjectGlobals: Warning: Gamethread hitch waiting for resource cleanup on a UObject (MaterialInstanceDynamic /Engine/Transient.ThumbMaker00) overwrite took   0.03ms. Fix the higher level code so that this does not happen.
+[2020.07.14-04.50.36:808][ 98]LogBlueprintUserMessages: [HapLibrarian_2] file://D:/TOCHEESEHDD/DP_Builds/WindowsNoEditor/WindowsNoEditor/DontPanicV012/Content/Movies/Media/HapLib/8-hallway.mov
+[2020.07.14-04.50.37:014][109]LogUObjectGlobals: Warning: Gamethread hitch waiting for resource cleanup on a UObject (MaterialInstanceDynamic /Engine/Transient.ThumbMaker00) overwrite took   0.03ms. Fix the higher level code so that this does not happen.
+[2020.07.14-04.50.37:014][109]LogBlueprintUserMessages: [HapLibrarian_2] file://D:/TOCHEESEHDD/DP_Builds/WindowsNoEditor/WindowsNoEditor/DontPanicV012/Content/Movies/Media/HapLib/9-Powerplant II.mov
+[2020.07.14-04.50.37:219][119]LogUObjectGlobals: Warning: Gamethread hitch waiting for resource cleanup on a UObject (MaterialInstanceDynamic /Engine/Transient.ThumbMaker00) overwrite took   0.00ms. Fix the higher level code so that this does not happen.
+[2020.07.14-04.50.37:219][119]LogBlueprintUserMessages: [HapLibrarian_2] file://D:/TOCHEESEHDD/DP_Builds/WindowsNoEditor/WindowsNoEditor/DontPanicV012/Content/Movies/Media/HapLib/9-Powerplant.mov
+[2020.07.14-04.50.37:431][129]LogUObjectGlobals: Warning: Gamethread hitch waiting for resource cleanup on a UObject (MaterialInstanceDynamic /Engine/Transient.ThumbMaker00) overwrite took   0.03ms. Fix the higher level code so that this does not happen.
+[2020.07.14-04.50.37:431][129]LogBlueprintUserMessages: [HapLibrarian_2] file://D:/TOCHEESEHDD/DP_Builds/WindowsNoEditor/WindowsNoEditor/DontPanicV012/Content/Movies/Media/HapLib/effects (2).mov
+[2020.07.14-04.50.37:641][139]LogUObjectGlobals: Warning: Gamethread hitch waiting for resource cleanup on a UObject (MaterialInstanceDynamic /Engine/Transient.ThumbMaker00) overwrite took   0.02ms. Fix the higher level code so that this does not happen.
+[2020.07.14-04.50.37:641][139]LogBlueprintUserMessages: [HapLibrarian_2] file://D:/TOCHEESEHDD/DP_Builds/WindowsNoEditor/WindowsNoEditor/DontPanicV012/Content/Movies/Media/HapLib/effects (3).mov
+[2020.07.14-04.50.37:850][151]LogUObjectGlobals: Warning: Gamethread hitch waiting for resource cleanup on a UObject (MaterialInstanceDynamic /Engine/Transient.ThumbMaker00) overwrite took   0.04ms. Fix the higher level code so that this does not happen.
+[2020.07.14-04.50.37:851][151]LogBlueprintUserMessages: [HapLibrarian_2] file://D:/TOCHEESEHDD/DP_Builds/WindowsNoEditor/WindowsNoEditor/DontPanicV012/Content/Movies/Media/HapLib/effects (5).mov
+[2020.07.14-04.50.38:053][163]LogUObjectGlobals: Warning: Gamethread hitch waiting for resource cleanup on a UObject (MaterialInstanceDynamic /Engine/Transient.ThumbMaker00) overwrite took   0.07ms. Fix the higher level code so that this does not happen.
+[2020.07.14-04.50.38:053][163]LogBlueprintUserMessages: [HapLibrarian_2] file://D:/TOCHEESEHDD/DP_Builds/WindowsNoEditor/WindowsNoEditor/DontPanicV012/Content/Movies/Media/HapLib/Lightning 1.mov
+[2020.07.14-04.50.38:256][175]LogUObjectGlobals: Warning: Gamethread hitch waiting for resource cleanup on a UObject (MaterialInstanceDynamic /Engine/Transient.ThumbMaker00) overwrite took   0.04ms. Fix the higher level code so that this does not happen.
+[2020.07.14-04.50.38:256][175]LogBlueprintUserMessages: [HapLibrarian_2] file://D:/TOCHEESEHDD/DP_Builds/WindowsNoEditor/WindowsNoEditor/DontPanicV012/Content/Movies/Media/HapLib/Lightning 2.mov
+[2020.07.14-04.50.38:457][187]LogUObjectGlobals: Warning: Gamethread hitch waiting for resource cleanup on a UObject (MaterialInstanceDynamic /Engine/Transient.ThumbMaker00) overwrite took   0.07ms. Fix the higher level code so that this does not happen.
+[2020.07.14-04.50.38:457][187]LogBlueprintUserMessages: [HapLibrarian_2] file://D:/TOCHEESEHDD/DP_Builds/WindowsNoEditor/WindowsNoEditor/DontPanicV012/Content/Movies/Media/HapLib/Lightning 3.mov
+[2020.07.14-04.50.38:659][199]LogUObjectGlobals: Warning: Gamethread hitch waiting for resource cleanup on a UObject (MaterialInstanceDynamic /Engine/Transient.ThumbMaker00) overwrite took   0.04ms. Fix the higher level code so that this does not happen.
+[2020.07.14-04.50.38:659][199]LogBlueprintUserMessages: [HapLibrarian_2] file://D:/TOCHEESEHDD/DP_Builds/WindowsNoEditor/WindowsNoEditor/DontPanicV012/Content/Movies/Media/HapLib/Lightning 4.mov
+[2020.07.14-04.50.38:860][211]LogUObjectGlobals: Warning: Gamethread hitch waiting for resource cleanup on a UObject (MaterialInstanceDynamic /Engine/Transient.ThumbMaker00) overwrite took   0.03ms. Fix the higher level code so that this does not happen.
+[2020.07.14-04.50.38:860][211]LogBlueprintUserMessages: [HapLibrarian_2] file://D:/TOCHEESEHDD/DP_Builds/WindowsNoEditor/WindowsNoEditor/DontPanicV012/Content/Movies/Media/HapLib/Lightning 5.mov
+[2020.07.14-04.50.39:063][223]LogUObjectGlobals: Warning: Gamethread hitch waiting for resource cleanup on a UObject (MaterialInstanceDynamic /Engine/Transient.ThumbMaker00) overwrite took   0.04ms. Fix the higher level code so that this does not happen.
+[2020.07.14-04.50.39:063][223]LogBlueprintUserMessages: [HapLibrarian_2] file://D:/TOCHEESEHDD/DP_Builds/WindowsNoEditor/WindowsNoEditor/DontPanicV012/Content/Movies/Media/HapLib/Lightning 6.mov
+[2020.07.14-04.50.39:264][235]LogUObjectGlobals: Warning: Gamethread hitch waiting for resource cleanup on a UObject (MaterialInstanceDynamic /Engine/Transient.ThumbMaker00) overwrite took   0.04ms. Fix the higher level code so that this does not happen.
+[2020.07.14-04.50.39:264][235]LogUMG: Display: Widget Class _DefaultPool_Cell__C - Loaded Fast Template.
+[2020.07.14-04.50.39:265][235]LogBlueprintUserMessages: [HapLibUniversePool] file://D:/TOCHEESEHDD/DP_Builds/WindowsNoEditor/WindowsNoEditor/DontPanicV012/Content/Movies/Media/HapLib/13- fan room.mov
+[2020.07.14-04.50.39:265][235]LogBlueprintUserMessages: [HapLibUniversePool] file://D:/TOCHEESEHDD/DP_Builds/WindowsNoEditor/WindowsNoEditor/DontPanicV012/Content/Movies/Media/HapLib/14 - trace.mov
+[2020.07.14-04.50.39:266][235]LogBlueprintUserMessages: [HapLibUniversePool] file://D:/TOCHEESEHDD/DP_Builds/WindowsNoEditor/WindowsNoEditor/DontPanicV012/Content/Movies/Media/HapLib/2. Water Drop 1.mov
+[2020.07.14-04.50.39:266][235]LogBlueprintUserMessages: [HapLibUniversePool] file://D:/TOCHEESEHDD/DP_Builds/WindowsNoEditor/WindowsNoEditor/DontPanicV012/Content/Movies/Media/HapLib/3. Neon Rain.mov
+[2020.07.14-04.50.39:267][235]LogBlueprintUserMessages: [HapLibUniversePool] file://D:/TOCHEESEHDD/DP_Builds/WindowsNoEditor/WindowsNoEditor/DontPanicV012/Content/Movies/Media/HapLib/3. Water Drop 2.mov
+[2020.07.14-04.50.39:267][235]LogBlueprintUserMessages: [HapLibUniversePool] file://D:/TOCHEESEHDD/DP_Builds/WindowsNoEditor/WindowsNoEditor/DontPanicV012/Content/Movies/Media/HapLib/4. Jungle  Fly over.mov
+[2020.07.14-04.50.39:268][235]LogBlueprintUserMessages: [HapLibUniversePool] file://D:/TOCHEESEHDD/DP_Builds/WindowsNoEditor/WindowsNoEditor/DontPanicV012/Content/Movies/Media/HapLib/4. Water Drop 3.mov
+[2020.07.14-04.50.39:268][235]LogBlueprintUserMessages: [HapLibUniversePool] file://D:/TOCHEESEHDD/DP_Builds/WindowsNoEditor/WindowsNoEditor/DontPanicV012/Content/Movies/Media/HapLib/5. Water Drop 4.mov
+[2020.07.14-04.50.39:268][235]LogBlueprintUserMessages: [HapLibUniversePool] file://D:/TOCHEESEHDD/DP_Builds/WindowsNoEditor/WindowsNoEditor/DontPanicV012/Content/Movies/Media/HapLib/6-Bolt.mov
+[2020.07.14-04.50.39:269][235]LogBlueprintUserMessages: [HapLibUniversePool] file://D:/TOCHEESEHDD/DP_Builds/WindowsNoEditor/WindowsNoEditor/DontPanicV012/Content/Movies/Media/HapLib/7- Glow Worms.mov
+[2020.07.14-04.50.39:269][235]LogBlueprintUserMessages: [HapLibUniversePool] file://D:/TOCHEESEHDD/DP_Builds/WindowsNoEditor/WindowsNoEditor/DontPanicV012/Content/Movies/Media/HapLib/7- strobe.mov
+[2020.07.14-04.50.39:270][235]LogBlueprintUserMessages: [HapLibUniversePool] file://D:/TOCHEESEHDD/DP_Builds/WindowsNoEditor/WindowsNoEditor/DontPanicV012/Content/Movies/Media/HapLib/7-Logo.mov
+[2020.07.14-04.50.39:270][235]LogBlueprintUserMessages: [HapLibUniversePool] file://D:/TOCHEESEHDD/DP_Builds/WindowsNoEditor/WindowsNoEditor/DontPanicV012/Content/Movies/Media/HapLib/8-hallway.mov
+[2020.07.14-04.50.39:271][235]LogBlueprintUserMessages: [HapLibUniversePool] file://D:/TOCHEESEHDD/DP_Builds/WindowsNoEditor/WindowsNoEditor/DontPanicV012/Content/Movies/Media/HapLib/9-Powerplant II.mov
+[2020.07.14-04.50.39:271][235]LogBlueprintUserMessages: [HapLibUniversePool] file://D:/TOCHEESEHDD/DP_Builds/WindowsNoEditor/WindowsNoEditor/DontPanicV012/Content/Movies/Media/HapLib/9-Powerplant.mov
+[2020.07.14-04.50.39:272][235]LogBlueprintUserMessages: [HapLibUniversePool] file://D:/TOCHEESEHDD/DP_Builds/WindowsNoEditor/WindowsNoEditor/DontPanicV012/Content/Movies/Media/HapLib/effects (2).mov
+[2020.07.14-04.50.39:272][235]LogBlueprintUserMessages: [HapLibUniversePool] file://D:/TOCHEESEHDD/DP_Builds/WindowsNoEditor/WindowsNoEditor/DontPanicV012/Content/Movies/Media/HapLib/effects (3).mov
+[2020.07.14-04.50.39:273][235]LogBlueprintUserMessages: [HapLibUniversePool] file://D:/TOCHEESEHDD/DP_Builds/WindowsNoEditor/WindowsNoEditor/DontPanicV012/Content/Movies/Media/HapLib/effects (5).mov
+[2020.07.14-04.50.39:273][235]LogBlueprintUserMessages: [HapLibUniversePool] file://D:/TOCHEESEHDD/DP_Builds/WindowsNoEditor/WindowsNoEditor/DontPanicV012/Content/Movies/Media/HapLib/Lightning 1.mov
+[2020.07.14-04.50.39:274][235]LogBlueprintUserMessages: [HapLibUniversePool] file://D:/TOCHEESEHDD/DP_Builds/WindowsNoEditor/WindowsNoEditor/DontPanicV012/Content/Movies/Media/HapLib/Lightning 2.mov
+[2020.07.14-04.50.39:274][235]LogBlueprintUserMessages: [HapLibUniversePool] file://D:/TOCHEESEHDD/DP_Builds/WindowsNoEditor/WindowsNoEditor/DontPanicV012/Content/Movies/Media/HapLib/Lightning 3.mov
+[2020.07.14-04.50.39:274][235]LogBlueprintUserMessages: [HapLibUniversePool] file://D:/TOCHEESEHDD/DP_Builds/WindowsNoEditor/WindowsNoEditor/DontPanicV012/Content/Movies/Media/HapLib/Lightning 4.mov
+[2020.07.14-04.50.39:275][235]LogBlueprintUserMessages: [HapLibUniversePool] file://D:/TOCHEESEHDD/DP_Builds/WindowsNoEditor/WindowsNoEditor/DontPanicV012/Content/Movies/Media/HapLib/Lightning 5.mov
+[2020.07.14-04.50.39:275][235]LogBlueprintUserMessages: [HapLibUniversePool] file://D:/TOCHEESEHDD/DP_Builds/WindowsNoEditor/WindowsNoEditor/DontPanicV012/Content/Movies/Media/HapLib/Lightning 6.mov
+[2020.07.14-04.50.40:806][329]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.14-04.50.40:851][332]LogBlueprintUserMessages: [HeaderBarMenu] 3
+[2020.07.14-04.50.41:416][367]LogBlueprintUserMessages: [HeaderBarMenu] 3
+[2020.07.14-04.50.41:755][388]LogBlueprintUserMessages: [HeaderBarMenu] 2
+[2020.07.14-04.50.42:304][422]LogBlueprintUserMessages: [HeaderBarMenu] 1
+[2020.07.14-04.50.43:497][496]LogBlueprintUserMessages: [HeaderBarMenu] 0
+[2020.07.14-04.50.44:627][565]LogBlueprintUserMessages: [HapLibUniversePool] file://D:/TOCHEESEHDD/DP_Builds/WindowsNoEditor/WindowsNoEditor/DontPanicV012/Content/Movies/Media/HapLib/7-Logo.mov

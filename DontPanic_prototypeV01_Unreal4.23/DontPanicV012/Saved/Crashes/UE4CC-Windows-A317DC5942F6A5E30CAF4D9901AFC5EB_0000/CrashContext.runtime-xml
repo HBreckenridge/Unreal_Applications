@@ -1,0 +1,1067 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FGenericCrashContext>
+<RuntimeProperties>
+<CrashVersion>3</CrashVersion>
+<ExecutionGuid>B441337E40E5868D83CC948DD66B9400</ExecutionGuid>
+<CrashGUID>UE4CC-Windows-A317DC5942F6A5E30CAF4D9901AFC5EB_0000</CrashGUID>
+<ProcessId>3592</ProcessId>
+<IsInternalBuild>false</IsInternalBuild>
+<IsPerforceBuild>false</IsPerforceBuild>
+<IsSourceDistribution>false</IsSourceDistribution>
+<IsEnsure>false</IsEnsure>
+<IsAssert>false</IsAssert>
+<CrashType>Crash</CrashType>
+<SecondsSinceStart>12</SecondsSinceStart>
+<GameName>UE4-DontPanicV012</GameName>
+<ExecutableName>DontPanicV012</ExecutableName>
+<BuildConfiguration>Development</BuildConfiguration>
+<GameSessionID></GameSessionID>
+<Symbols>**UE4*Release-4.23-CL-8386587-Win64-Development</Symbols>
+<PlatformName>WindowsNoEditor</PlatformName>
+<PlatformNameIni>Windows</PlatformNameIni>
+<EngineMode>Game</EngineMode>
+<EngineModeEx>Unset</EngineModeEx>
+<DeploymentName></DeploymentName>
+<EngineVersion>4.23.0-8386587+++UE4+Release-4.23</EngineVersion>
+<CommandLine> DontPanicV012</CommandLine>
+<LanguageLCID>1033</LanguageLCID>
+<AppDefaultLocale>en-US</AppDefaultLocale>
+<BuildVersion>++UE4+Release-4.23-CL-8386587</BuildVersion>
+<IsUE4Release>false</IsUE4Release>
+<UserName></UserName>
+<BaseDir>D:/TOCHEESEHDD/DP_Builds/WindowsNoEditor/WindowsNoEditor/DontPanicV012/Binaries/Win64/</BaseDir>
+<RootDir>D:/TOCHEESEHDD/DP_Builds/WindowsNoEditor/WindowsNoEditor/</RootDir>
+<MachineId>939D4CEC41D70181A09945BB1535030B</MachineId>
+<LoginId>939d4cec41d70181a09945bb1535030b</LoginId>
+<EpicAccountId>b2942d55baa7468c94b71a97a0930a51</EpicAccountId>
+<NumMinidumpFramesToIgnore>0</NumMinidumpFramesToIgnore>
+<CallStack></CallStack>
+<PCallStack>
+DontPanicV012  0x0000000082490000 + 646319  
+DontPanicV012  0x0000000082490000 + 663207  
+DontPanicV012  0x0000000082490000 + 659c68  
+RTWorkQ        0x00000000ac8e0000 + 1f70    
+RTWorkQ        0x00000000ac8e0000 + 1b29    
+RTWorkQ        0x00000000ac8e0000 + 85dd    
+ntdll          0x00000000b48c0000 + 3081d   
+ntdll          0x00000000b48c0000 + 345b4   
+KERNEL32       0x00000000b30a0000 + 17bd4   
+ntdll          0x00000000b48c0000 + 6ce51   
+</PCallStack>
+<PCallStackHash>38CE92CDAC5EE97683F71D4183B82BBF3865349F</PCallStackHash>
+<SourceContext></SourceContext>
+<UserDescription></UserDescription>
+<UserActivityHint></UserActivityHint>
+<ErrorMessage>Unhandled exception</ErrorMessage>
+<CrashDumpMode>0</CrashDumpMode>
+<CrashReporterMessage></CrashReporterMessage>
+<Misc.NumberOfCores>6</Misc.NumberOfCores>
+<Misc.NumberOfCoresIncludingHyperthreads>12</Misc.NumberOfCoresIncludingHyperthreads>
+<Misc.Is64bitOperatingSystem>1</Misc.Is64bitOperatingSystem>
+<Misc.CPUVendor>GenuineIntel</Misc.CPUVendor>
+<Misc.CPUBrand>Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz</Misc.CPUBrand>
+<Misc.PrimaryGPUBrand>Intel(R) UHD Graphics 630</Misc.PrimaryGPUBrand>
+<Misc.OSVersionMajor>Windows 10 (Release 1909)</Misc.OSVersionMajor>
+<Misc.OSVersionMinor></Misc.OSVersionMinor>
+<GameStateName></GameStateName>
+<MemoryStats.TotalPhysical>17073336320</MemoryStats.TotalPhysical>
+<MemoryStats.TotalVirtual>140737488224256</MemoryStats.TotalVirtual>
+<MemoryStats.PageSize>4096</MemoryStats.PageSize>
+<MemoryStats.TotalPhysicalGB>16</MemoryStats.TotalPhysicalGB>
+<MemoryStats.AvailablePhysical>0</MemoryStats.AvailablePhysical>
+<MemoryStats.AvailableVirtual>0</MemoryStats.AvailableVirtual>
+<MemoryStats.UsedPhysical>0</MemoryStats.UsedPhysical>
+<MemoryStats.PeakUsedPhysical>0</MemoryStats.PeakUsedPhysical>
+<MemoryStats.UsedVirtual>0</MemoryStats.UsedVirtual>
+<MemoryStats.PeakUsedVirtual>0</MemoryStats.PeakUsedVirtual>
+<MemoryStats.bIsOOM>0</MemoryStats.bIsOOM>
+<MemoryStats.OOMAllocationSize>0</MemoryStats.OOMAllocationSize>
+<MemoryStats.OOMAllocationAlignment>0</MemoryStats.OOMAllocationAlignment>
+<Threads><Thread><CallStack>ntdll          0x00000000b48c0000 + 9c0f4   
+KERNELBASE     0x00000000b1850000 + 38b03   
+mfplat         0x00000000accf0000 + 11e3dd  
+DontPanicV012  0x0000000082490000 + 6626fe  
+DontPanicV012  0x0000000082490000 + 66ddcd  
+DontPanicV012  0x0000000082490000 + 4051e47 
+DontPanicV012  0x0000000082490000 + 2f12c0e 
+DontPanicV012  0x0000000082490000 + 2f0ff14 
+DontPanicV012  0x0000000082490000 + 34597c6 
+DontPanicV012  0x0000000082490000 + 3e4dcd  
+DontPanicV012  0x0000000082490000 + 3f6d4c  
+DontPanicV012  0x0000000082490000 + 3f6e0a  
+DontPanicV012  0x0000000082490000 + 407c00  
+DontPanicV012  0x0000000082490000 + 4b045f2 
+KERNEL32       0x00000000b30a0000 + 17bd4   
+ntdll          0x00000000b48c0000 + 6ce51   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>4700</ThreadID>
+<ThreadName>GameThread</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll          0x00000000b48c0000 + 9c0f4   
+KERNELBASE     0x00000000b1850000 + 38b03   
+DontPanicV012  0x0000000082490000 + 1001a3b 
+DontPanicV012  0x0000000082490000 + bf29b5  
+DontPanicV012  0x0000000082490000 + bf3cad  
+DontPanicV012  0x0000000082490000 + bfaafb  
+DontPanicV012  0x0000000082490000 + ffdacf  
+DontPanicV012  0x0000000082490000 + ff3a31  
+KERNEL32       0x00000000b30a0000 + 17bd4   
+ntdll          0x00000000b48c0000 + 6ce51   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>2316</ThreadID>
+<ThreadName>TaskGraphThreadNP 0</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll          0x00000000b48c0000 + 9c0f4   
+KERNELBASE     0x00000000b1850000 + 38b03   
+DontPanicV012  0x0000000082490000 + 1001a3b 
+DontPanicV012  0x0000000082490000 + bf29b5  
+DontPanicV012  0x0000000082490000 + bf3cad  
+DontPanicV012  0x0000000082490000 + bfaafb  
+DontPanicV012  0x0000000082490000 + ffdacf  
+DontPanicV012  0x0000000082490000 + ff3a31  
+KERNEL32       0x00000000b30a0000 + 17bd4   
+ntdll          0x00000000b48c0000 + 6ce51   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>10432</ThreadID>
+<ThreadName>TaskGraphThreadNP 1</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll          0x00000000b48c0000 + 9c0f4   
+KERNELBASE     0x00000000b1850000 + 38b03   
+DontPanicV012  0x0000000082490000 + 1001a3b 
+DontPanicV012  0x0000000082490000 + bf29b5  
+DontPanicV012  0x0000000082490000 + bf3cad  
+DontPanicV012  0x0000000082490000 + bfaafb  
+DontPanicV012  0x0000000082490000 + ffdacf  
+DontPanicV012  0x0000000082490000 + ff3a31  
+KERNEL32       0x00000000b30a0000 + 17bd4   
+ntdll          0x00000000b48c0000 + 6ce51   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>4076</ThreadID>
+<ThreadName>TaskGraphThreadNP 2</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll          0x00000000b48c0000 + 9c0f4   
+KERNELBASE     0x00000000b1850000 + 38b03   
+DontPanicV012  0x0000000082490000 + 1001a3b 
+DontPanicV012  0x0000000082490000 + bf29b5  
+DontPanicV012  0x0000000082490000 + bf3cad  
+DontPanicV012  0x0000000082490000 + bfaafb  
+DontPanicV012  0x0000000082490000 + ffdacf  
+DontPanicV012  0x0000000082490000 + ff3a31  
+KERNEL32       0x00000000b30a0000 + 17bd4   
+ntdll          0x00000000b48c0000 + 6ce51   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>8168</ThreadID>
+<ThreadName>TaskGraphThreadNP 3</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll          0x00000000b48c0000 + 9c0f4   
+KERNELBASE     0x00000000b1850000 + 38b03   
+DontPanicV012  0x0000000082490000 + 1001a3b 
+DontPanicV012  0x0000000082490000 + bf29b5  
+DontPanicV012  0x0000000082490000 + bf3cad  
+DontPanicV012  0x0000000082490000 + bfaafb  
+DontPanicV012  0x0000000082490000 + ffdacf  
+DontPanicV012  0x0000000082490000 + ff3a31  
+KERNEL32       0x00000000b30a0000 + 17bd4   
+ntdll          0x00000000b48c0000 + 6ce51   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>9264</ThreadID>
+<ThreadName>TaskGraphThreadNP 4</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll          0x00000000b48c0000 + 9c0f4   
+KERNELBASE     0x00000000b1850000 + 38b03   
+DontPanicV012  0x0000000082490000 + 1001a3b 
+DontPanicV012  0x0000000082490000 + bf29b5  
+DontPanicV012  0x0000000082490000 + bf3cad  
+DontPanicV012  0x0000000082490000 + bfaafb  
+DontPanicV012  0x0000000082490000 + ffdacf  
+DontPanicV012  0x0000000082490000 + ff3a31  
+KERNEL32       0x00000000b30a0000 + 17bd4   
+ntdll          0x00000000b48c0000 + 6ce51   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>2708</ThreadID>
+<ThreadName>TaskGraphThreadNP 5</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll          0x00000000b48c0000 + 9c0f4   
+KERNELBASE     0x00000000b1850000 + 38b03   
+DontPanicV012  0x0000000082490000 + 1001a3b 
+DontPanicV012  0x0000000082490000 + bf29b5  
+DontPanicV012  0x0000000082490000 + bf3cad  
+DontPanicV012  0x0000000082490000 + bfaafb  
+DontPanicV012  0x0000000082490000 + ffdacf  
+DontPanicV012  0x0000000082490000 + ff3a31  
+KERNEL32       0x00000000b30a0000 + 17bd4   
+ntdll          0x00000000b48c0000 + 6ce51   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>3464</ThreadID>
+<ThreadName>TaskGraphThreadNP 6</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll          0x00000000b48c0000 + 9c0f4   
+KERNELBASE     0x00000000b1850000 + 38b03   
+DontPanicV012  0x0000000082490000 + 1001a3b 
+DontPanicV012  0x0000000082490000 + bf29b5  
+DontPanicV012  0x0000000082490000 + bf3cad  
+DontPanicV012  0x0000000082490000 + bfaafb  
+DontPanicV012  0x0000000082490000 + ffdacf  
+DontPanicV012  0x0000000082490000 + ff3a31  
+KERNEL32       0x00000000b30a0000 + 17bd4   
+ntdll          0x00000000b48c0000 + 6ce51   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>10972</ThreadID>
+<ThreadName>TaskGraphThreadNP 7</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll          0x00000000b48c0000 + 9c0f4   
+KERNELBASE     0x00000000b1850000 + 38b03   
+DontPanicV012  0x0000000082490000 + 1001a3b 
+DontPanicV012  0x0000000082490000 + bf29b5  
+DontPanicV012  0x0000000082490000 + bf3cad  
+DontPanicV012  0x0000000082490000 + bfaafb  
+DontPanicV012  0x0000000082490000 + ffdacf  
+DontPanicV012  0x0000000082490000 + ff3a31  
+KERNEL32       0x00000000b30a0000 + 17bd4   
+ntdll          0x00000000b48c0000 + 6ce51   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>1888</ThreadID>
+<ThreadName>TaskGraphThreadNP 8</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll          0x00000000b48c0000 + 9c0f4   
+KERNELBASE     0x00000000b1850000 + 38b03   
+DontPanicV012  0x0000000082490000 + 1001a3b 
+DontPanicV012  0x0000000082490000 + bf29b5  
+DontPanicV012  0x0000000082490000 + bf3cad  
+DontPanicV012  0x0000000082490000 + bfaafb  
+DontPanicV012  0x0000000082490000 + ffdacf  
+DontPanicV012  0x0000000082490000 + ff3a31  
+KERNEL32       0x00000000b30a0000 + 17bd4   
+ntdll          0x00000000b48c0000 + 6ce51   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>1380</ThreadID>
+<ThreadName>TaskGraphThreadNP 9</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll          0x00000000b48c0000 + 9c0f4   
+KERNELBASE     0x00000000b1850000 + 38b03   
+DontPanicV012  0x0000000082490000 + 1001a3b 
+DontPanicV012  0x0000000082490000 + bf29b5  
+DontPanicV012  0x0000000082490000 + bf3cad  
+DontPanicV012  0x0000000082490000 + bfaafb  
+DontPanicV012  0x0000000082490000 + ffdacf  
+DontPanicV012  0x0000000082490000 + ff3a31  
+KERNEL32       0x00000000b30a0000 + 17bd4   
+ntdll          0x00000000b48c0000 + 6ce51   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>2340</ThreadID>
+<ThreadName>TaskGraphThreadHP 10</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll          0x00000000b48c0000 + 9c0f4   
+KERNELBASE     0x00000000b1850000 + 38b03   
+DontPanicV012  0x0000000082490000 + 1001a3b 
+DontPanicV012  0x0000000082490000 + bf29b5  
+DontPanicV012  0x0000000082490000 + bf3cad  
+DontPanicV012  0x0000000082490000 + bfaafb  
+DontPanicV012  0x0000000082490000 + ffdacf  
+DontPanicV012  0x0000000082490000 + ff3a31  
+KERNEL32       0x00000000b30a0000 + 17bd4   
+ntdll          0x00000000b48c0000 + 6ce51   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>7528</ThreadID>
+<ThreadName>TaskGraphThreadHP 11</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll          0x00000000b48c0000 + 9c0f4   
+KERNELBASE     0x00000000b1850000 + 38b03   
+DontPanicV012  0x0000000082490000 + 1001a3b 
+DontPanicV012  0x0000000082490000 + bf29b5  
+DontPanicV012  0x0000000082490000 + bf3cad  
+DontPanicV012  0x0000000082490000 + bfaafb  
+DontPanicV012  0x0000000082490000 + ffdacf  
+DontPanicV012  0x0000000082490000 + ff3a31  
+KERNEL32       0x00000000b30a0000 + 17bd4   
+ntdll          0x00000000b48c0000 + 6ce51   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>11068</ThreadID>
+<ThreadName>TaskGraphThreadHP 12</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll          0x00000000b48c0000 + 9c0f4   
+KERNELBASE     0x00000000b1850000 + 38b03   
+DontPanicV012  0x0000000082490000 + 1001a3b 
+DontPanicV012  0x0000000082490000 + bf29b5  
+DontPanicV012  0x0000000082490000 + bf3cad  
+DontPanicV012  0x0000000082490000 + bfaafb  
+DontPanicV012  0x0000000082490000 + ffdacf  
+DontPanicV012  0x0000000082490000 + ff3a31  
+KERNEL32       0x00000000b30a0000 + 17bd4   
+ntdll          0x00000000b48c0000 + 6ce51   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>2356</ThreadID>
+<ThreadName>TaskGraphThreadHP 13</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll          0x00000000b48c0000 + 9c0f4   
+KERNELBASE     0x00000000b1850000 + 38b03   
+DontPanicV012  0x0000000082490000 + 1001a3b 
+DontPanicV012  0x0000000082490000 + bf29b5  
+DontPanicV012  0x0000000082490000 + bf3cad  
+DontPanicV012  0x0000000082490000 + bfaafb  
+DontPanicV012  0x0000000082490000 + ffdacf  
+DontPanicV012  0x0000000082490000 + ff3a31  
+KERNEL32       0x00000000b30a0000 + 17bd4   
+ntdll          0x00000000b48c0000 + 6ce51   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>4108</ThreadID>
+<ThreadName>TaskGraphThreadHP 14</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll          0x00000000b48c0000 + 9c0f4   
+KERNELBASE     0x00000000b1850000 + 38b03   
+DontPanicV012  0x0000000082490000 + 1001a3b 
+DontPanicV012  0x0000000082490000 + bf29b5  
+DontPanicV012  0x0000000082490000 + bf3cad  
+DontPanicV012  0x0000000082490000 + bfaafb  
+DontPanicV012  0x0000000082490000 + ffdacf  
+DontPanicV012  0x0000000082490000 + ff3a31  
+KERNEL32       0x00000000b30a0000 + 17bd4   
+ntdll          0x00000000b48c0000 + 6ce51   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>10448</ThreadID>
+<ThreadName>TaskGraphThreadHP 15</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll          0x00000000b48c0000 + 9c0f4   
+KERNELBASE     0x00000000b1850000 + 38b03   
+DontPanicV012  0x0000000082490000 + 1001a3b 
+DontPanicV012  0x0000000082490000 + bf29b5  
+DontPanicV012  0x0000000082490000 + bf3cad  
+DontPanicV012  0x0000000082490000 + bfaafb  
+DontPanicV012  0x0000000082490000 + ffdacf  
+DontPanicV012  0x0000000082490000 + ff3a31  
+KERNEL32       0x00000000b30a0000 + 17bd4   
+ntdll          0x00000000b48c0000 + 6ce51   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>8980</ThreadID>
+<ThreadName>TaskGraphThreadHP 16</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll          0x00000000b48c0000 + 9c0f4   
+KERNELBASE     0x00000000b1850000 + 38b03   
+DontPanicV012  0x0000000082490000 + 1001a3b 
+DontPanicV012  0x0000000082490000 + bf29b5  
+DontPanicV012  0x0000000082490000 + bf3cad  
+DontPanicV012  0x0000000082490000 + bfaafb  
+DontPanicV012  0x0000000082490000 + ffdacf  
+DontPanicV012  0x0000000082490000 + ff3a31  
+KERNEL32       0x00000000b30a0000 + 17bd4   
+ntdll          0x00000000b48c0000 + 6ce51   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>5008</ThreadID>
+<ThreadName>TaskGraphThreadHP 17</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll          0x00000000b48c0000 + 9c0f4   
+KERNELBASE     0x00000000b1850000 + 38b03   
+DontPanicV012  0x0000000082490000 + 1001a3b 
+DontPanicV012  0x0000000082490000 + bf29b5  
+DontPanicV012  0x0000000082490000 + bf3cad  
+DontPanicV012  0x0000000082490000 + bfaafb  
+DontPanicV012  0x0000000082490000 + ffdacf  
+DontPanicV012  0x0000000082490000 + ff3a31  
+KERNEL32       0x00000000b30a0000 + 17bd4   
+ntdll          0x00000000b48c0000 + 6ce51   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>2104</ThreadID>
+<ThreadName>TaskGraphThreadHP 18</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll          0x00000000b48c0000 + 9c0f4   
+KERNELBASE     0x00000000b1850000 + 38b03   
+DontPanicV012  0x0000000082490000 + 1001a3b 
+DontPanicV012  0x0000000082490000 + bf29b5  
+DontPanicV012  0x0000000082490000 + bf3cad  
+DontPanicV012  0x0000000082490000 + bfaafb  
+DontPanicV012  0x0000000082490000 + ffdacf  
+DontPanicV012  0x0000000082490000 + ff3a31  
+KERNEL32       0x00000000b30a0000 + 17bd4   
+ntdll          0x00000000b48c0000 + 6ce51   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>6952</ThreadID>
+<ThreadName>TaskGraphThreadHP 19</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll          0x00000000b48c0000 + 9c0f4   
+KERNELBASE     0x00000000b1850000 + 38b03   
+DontPanicV012  0x0000000082490000 + 1001a3b 
+DontPanicV012  0x0000000082490000 + bf29b5  
+DontPanicV012  0x0000000082490000 + bf3cad  
+DontPanicV012  0x0000000082490000 + bfaafb  
+DontPanicV012  0x0000000082490000 + ffdacf  
+DontPanicV012  0x0000000082490000 + ff3a31  
+KERNEL32       0x00000000b30a0000 + 17bd4   
+ntdll          0x00000000b48c0000 + 6ce51   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>10868</ThreadID>
+<ThreadName>TaskGraphThreadBP 20</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll          0x00000000b48c0000 + 9c0f4   
+KERNELBASE     0x00000000b1850000 + 38b03   
+DontPanicV012  0x0000000082490000 + 1001a3b 
+DontPanicV012  0x0000000082490000 + bf29b5  
+DontPanicV012  0x0000000082490000 + bf3cad  
+DontPanicV012  0x0000000082490000 + bfaafb  
+DontPanicV012  0x0000000082490000 + ffdacf  
+DontPanicV012  0x0000000082490000 + ff3a31  
+KERNEL32       0x00000000b30a0000 + 17bd4   
+ntdll          0x00000000b48c0000 + 6ce51   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>6640</ThreadID>
+<ThreadName>TaskGraphThreadBP 21</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll          0x00000000b48c0000 + 9c0f4   
+KERNELBASE     0x00000000b1850000 + 38b03   
+DontPanicV012  0x0000000082490000 + 1001a3b 
+DontPanicV012  0x0000000082490000 + bf29b5  
+DontPanicV012  0x0000000082490000 + bf3cad  
+DontPanicV012  0x0000000082490000 + bfaafb  
+DontPanicV012  0x0000000082490000 + ffdacf  
+DontPanicV012  0x0000000082490000 + ff3a31  
+KERNEL32       0x00000000b30a0000 + 17bd4   
+ntdll          0x00000000b48c0000 + 6ce51   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>6128</ThreadID>
+<ThreadName>TaskGraphThreadBP 22</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll          0x00000000b48c0000 + 9c0f4   
+KERNELBASE     0x00000000b1850000 + 38b03   
+DontPanicV012  0x0000000082490000 + 1001a3b 
+DontPanicV012  0x0000000082490000 + bf29b5  
+DontPanicV012  0x0000000082490000 + bf3cad  
+DontPanicV012  0x0000000082490000 + bfaafb  
+DontPanicV012  0x0000000082490000 + ffdacf  
+DontPanicV012  0x0000000082490000 + ff3a31  
+KERNEL32       0x00000000b30a0000 + 17bd4   
+ntdll          0x00000000b48c0000 + 6ce51   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>7724</ThreadID>
+<ThreadName>TaskGraphThreadBP 23</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll          0x00000000b48c0000 + 9c0f4   
+KERNELBASE     0x00000000b1850000 + 38b03   
+DontPanicV012  0x0000000082490000 + 1001a3b 
+DontPanicV012  0x0000000082490000 + bf29b5  
+DontPanicV012  0x0000000082490000 + bf3cad  
+DontPanicV012  0x0000000082490000 + bfaafb  
+DontPanicV012  0x0000000082490000 + ffdacf  
+DontPanicV012  0x0000000082490000 + ff3a31  
+KERNEL32       0x00000000b30a0000 + 17bd4   
+ntdll          0x00000000b48c0000 + 6ce51   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>8144</ThreadID>
+<ThreadName>TaskGraphThreadBP 24</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll          0x00000000b48c0000 + 9c0f4   
+KERNELBASE     0x00000000b1850000 + 38b03   
+DontPanicV012  0x0000000082490000 + 1001a3b 
+DontPanicV012  0x0000000082490000 + bf29b5  
+DontPanicV012  0x0000000082490000 + bf3cad  
+DontPanicV012  0x0000000082490000 + bfaafb  
+DontPanicV012  0x0000000082490000 + ffdacf  
+DontPanicV012  0x0000000082490000 + ff3a31  
+KERNEL32       0x00000000b30a0000 + 17bd4   
+ntdll          0x00000000b48c0000 + 6ce51   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>5340</ThreadID>
+<ThreadName>TaskGraphThreadBP 25</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll          0x00000000b48c0000 + 9c0f4   
+KERNELBASE     0x00000000b1850000 + 38b03   
+DontPanicV012  0x0000000082490000 + 1001a3b 
+DontPanicV012  0x0000000082490000 + bf29b5  
+DontPanicV012  0x0000000082490000 + bf3cad  
+DontPanicV012  0x0000000082490000 + bfaafb  
+DontPanicV012  0x0000000082490000 + ffdacf  
+DontPanicV012  0x0000000082490000 + ff3a31  
+KERNEL32       0x00000000b30a0000 + 17bd4   
+ntdll          0x00000000b48c0000 + 6ce51   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>2216</ThreadID>
+<ThreadName>TaskGraphThreadBP 26</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll          0x00000000b48c0000 + 9c0f4   
+KERNELBASE     0x00000000b1850000 + 38b03   
+DontPanicV012  0x0000000082490000 + 1001a3b 
+DontPanicV012  0x0000000082490000 + bf29b5  
+DontPanicV012  0x0000000082490000 + bf3cad  
+DontPanicV012  0x0000000082490000 + bfaafb  
+DontPanicV012  0x0000000082490000 + ffdacf  
+DontPanicV012  0x0000000082490000 + ff3a31  
+KERNEL32       0x00000000b30a0000 + 17bd4   
+ntdll          0x00000000b48c0000 + 6ce51   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>11040</ThreadID>
+<ThreadName>TaskGraphThreadBP 27</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll          0x00000000b48c0000 + 9c0f4   
+KERNELBASE     0x00000000b1850000 + 38b03   
+DontPanicV012  0x0000000082490000 + 1001a3b 
+DontPanicV012  0x0000000082490000 + bf29b5  
+DontPanicV012  0x0000000082490000 + bf3cad  
+DontPanicV012  0x0000000082490000 + bfaafb  
+DontPanicV012  0x0000000082490000 + ffdacf  
+DontPanicV012  0x0000000082490000 + ff3a31  
+KERNEL32       0x00000000b30a0000 + 17bd4   
+ntdll          0x00000000b48c0000 + 6ce51   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>2496</ThreadID>
+<ThreadName>TaskGraphThreadBP 28</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll          0x00000000b48c0000 + 9c0f4   
+KERNELBASE     0x00000000b1850000 + 38b03   
+DontPanicV012  0x0000000082490000 + 1001a3b 
+DontPanicV012  0x0000000082490000 + bf29b5  
+DontPanicV012  0x0000000082490000 + bf3cad  
+DontPanicV012  0x0000000082490000 + bfaafb  
+DontPanicV012  0x0000000082490000 + ffdacf  
+DontPanicV012  0x0000000082490000 + ff3a31  
+KERNEL32       0x00000000b30a0000 + 17bd4   
+ntdll          0x00000000b48c0000 + 6ce51   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>10080</ThreadID>
+<ThreadName>TaskGraphThreadBP 29</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll          0x00000000b48c0000 + 9c0f4   
+KERNELBASE     0x00000000b1850000 + 38b03   
+DontPanicV012  0x0000000082490000 + 1001a3b 
+DontPanicV012  0x0000000082490000 + bf362d  
+DontPanicV012  0x0000000082490000 + bf3c33  
+DontPanicV012  0x0000000082490000 + ee9ecd  
+DontPanicV012  0x0000000082490000 + ffdacf  
+DontPanicV012  0x0000000082490000 + ff3a31  
+KERNEL32       0x00000000b30a0000 + 17bd4   
+ntdll          0x00000000b48c0000 + 6ce51   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>1092</ThreadID>
+<ThreadName>StatsThread</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll          0x00000000b48c0000 + 9c0f4   
+KERNELBASE     0x00000000b1850000 + 38b03   
+DontPanicV012  0x0000000082490000 + 1001a3b 
+DontPanicV012  0x0000000082490000 + ceb138  
+DontPanicV012  0x0000000082490000 + ffdacf  
+DontPanicV012  0x0000000082490000 + ff3a31  
+KERNEL32       0x00000000b30a0000 + 17bd4   
+ntdll          0x00000000b48c0000 + 6ce51   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>1864</ThreadID>
+<ThreadName>PoolThread 0</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll          0x00000000b48c0000 + 9c0f4   
+KERNELBASE     0x00000000b1850000 + 38b03   
+DontPanicV012  0x0000000082490000 + 1001a3b 
+DontPanicV012  0x0000000082490000 + ceb138  
+DontPanicV012  0x0000000082490000 + ffdacf  
+DontPanicV012  0x0000000082490000 + ff3a31  
+KERNEL32       0x00000000b30a0000 + 17bd4   
+ntdll          0x00000000b48c0000 + 6ce51   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>3396</ThreadID>
+<ThreadName>PoolThread 1</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll          0x00000000b48c0000 + 9c0f4   
+KERNELBASE     0x00000000b1850000 + 38b03   
+DontPanicV012  0x0000000082490000 + 1001a3b 
+DontPanicV012  0x0000000082490000 + ceb138  
+DontPanicV012  0x0000000082490000 + ffdacf  
+DontPanicV012  0x0000000082490000 + ff3a31  
+KERNEL32       0x00000000b30a0000 + 17bd4   
+ntdll          0x00000000b48c0000 + 6ce51   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>6380</ThreadID>
+<ThreadName>PoolThread 2</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll          0x00000000b48c0000 + 9c0f4   
+KERNELBASE     0x00000000b1850000 + 38b03   
+DontPanicV012  0x0000000082490000 + 1001a3b 
+DontPanicV012  0x0000000082490000 + ceb138  
+DontPanicV012  0x0000000082490000 + ffdacf  
+DontPanicV012  0x0000000082490000 + ff3a31  
+KERNEL32       0x00000000b30a0000 + 17bd4   
+ntdll          0x00000000b48c0000 + 6ce51   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>6456</ThreadID>
+<ThreadName>PoolThread 3</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll          0x00000000b48c0000 + 9c0f4   
+KERNELBASE     0x00000000b1850000 + 38b03   
+DontPanicV012  0x0000000082490000 + 1001a3b 
+DontPanicV012  0x0000000082490000 + ceb138  
+DontPanicV012  0x0000000082490000 + ffdacf  
+DontPanicV012  0x0000000082490000 + ff3a31  
+KERNEL32       0x00000000b30a0000 + 17bd4   
+ntdll          0x00000000b48c0000 + 6ce51   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>6560</ThreadID>
+<ThreadName>PoolThread 4</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll          0x00000000b48c0000 + 9c0f4   
+KERNELBASE     0x00000000b1850000 + 38b03   
+DontPanicV012  0x0000000082490000 + 1001a3b 
+DontPanicV012  0x0000000082490000 + ceb138  
+DontPanicV012  0x0000000082490000 + ffdacf  
+DontPanicV012  0x0000000082490000 + ff3a31  
+KERNEL32       0x00000000b30a0000 + 17bd4   
+ntdll          0x00000000b48c0000 + 6ce51   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>6072</ThreadID>
+<ThreadName>PoolThread 5</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll          0x00000000b48c0000 + 9c0f4   
+KERNELBASE     0x00000000b1850000 + 38b03   
+DontPanicV012  0x0000000082490000 + 1001a3b 
+DontPanicV012  0x0000000082490000 + ceb138  
+DontPanicV012  0x0000000082490000 + ffdacf  
+DontPanicV012  0x0000000082490000 + ff3a31  
+KERNEL32       0x00000000b30a0000 + 17bd4   
+ntdll          0x00000000b48c0000 + 6ce51   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>4420</ThreadID>
+<ThreadName>PoolThread 6</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll          0x00000000b48c0000 + 9c0f4   
+KERNELBASE     0x00000000b1850000 + 38b03   
+DontPanicV012  0x0000000082490000 + 1001a3b 
+DontPanicV012  0x0000000082490000 + ceb138  
+DontPanicV012  0x0000000082490000 + ffdacf  
+DontPanicV012  0x0000000082490000 + ff3a31  
+KERNEL32       0x00000000b30a0000 + 17bd4   
+ntdll          0x00000000b48c0000 + 6ce51   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>7536</ThreadID>
+<ThreadName>PoolThread 7</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll          0x00000000b48c0000 + 9c0f4   
+KERNELBASE     0x00000000b1850000 + 38b03   
+DontPanicV012  0x0000000082490000 + 1001a3b 
+DontPanicV012  0x0000000082490000 + ceb138  
+DontPanicV012  0x0000000082490000 + ffdacf  
+DontPanicV012  0x0000000082490000 + ff3a31  
+KERNEL32       0x00000000b30a0000 + 17bd4   
+ntdll          0x00000000b48c0000 + 6ce51   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>5396</ThreadID>
+<ThreadName>PoolThread 8</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll          0x00000000b48c0000 + 9c0f4   
+KERNELBASE     0x00000000b1850000 + 38b03   
+DontPanicV012  0x0000000082490000 + 1001a3b 
+DontPanicV012  0x0000000082490000 + ceb138  
+DontPanicV012  0x0000000082490000 + ffdacf  
+DontPanicV012  0x0000000082490000 + ff3a31  
+KERNEL32       0x00000000b30a0000 + 17bd4   
+ntdll          0x00000000b48c0000 + 6ce51   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>6616</ThreadID>
+<ThreadName>PoolThread 9</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll          0x00000000b48c0000 + 9c0f4   
+KERNELBASE     0x00000000b1850000 + 38b03   
+DontPanicV012  0x0000000082490000 + 1001a3b 
+DontPanicV012  0x0000000082490000 + ceb138  
+DontPanicV012  0x0000000082490000 + ffdacf  
+DontPanicV012  0x0000000082490000 + ff3a31  
+KERNEL32       0x00000000b30a0000 + 17bd4   
+ntdll          0x00000000b48c0000 + 6ce51   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>9268</ThreadID>
+<ThreadName>PoolThread 10</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll          0x00000000b48c0000 + 9c0f4   
+KERNELBASE     0x00000000b1850000 + 38b03   
+DontPanicV012  0x0000000082490000 + 1001a3b 
+DontPanicV012  0x0000000082490000 + ceb138  
+DontPanicV012  0x0000000082490000 + ffdacf  
+DontPanicV012  0x0000000082490000 + ff3a31  
+KERNEL32       0x00000000b30a0000 + 17bd4   
+ntdll          0x00000000b48c0000 + 6ce51   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>560</ThreadID>
+<ThreadName>PoolThread 11</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll          0x00000000b48c0000 + 9c6f4   
+KERNELBASE     0x00000000b1850000 + 46891   
+DontPanicV012  0x0000000082490000 + e0723e  
+DontPanicV012  0x0000000082490000 + ffdacf  
+DontPanicV012  0x0000000082490000 + ff3a31  
+KERNEL32       0x00000000b30a0000 + 17bd4   
+ntdll          0x00000000b48c0000 + 6ce51   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>10876</ThreadID>
+<ThreadName>FAsyncWriter_DontPanicV012</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll          0x00000000b48c0000 + 9c6f4   
+KERNELBASE     0x00000000b1850000 + 46891   
+DontPanicV012  0x0000000082490000 + ffede8  
+DontPanicV012  0x0000000082490000 + 2f12a94 
+DontPanicV012  0x0000000082490000 + ffdacf  
+DontPanicV012  0x0000000082490000 + ff3a31  
+KERNEL32       0x00000000b30a0000 + 17bd4   
+ntdll          0x00000000b48c0000 + 6ce51   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>7320</ThreadID>
+<ThreadName>FMediaTicker</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll          0x00000000b48c0000 + 9c6f4   
+KERNELBASE     0x00000000b1850000 + 46891   
+DontPanicV012  0x0000000082490000 + 243a33d 
+DontPanicV012  0x0000000082490000 + ffdacf  
+DontPanicV012  0x0000000082490000 + ff3a31  
+KERNEL32       0x00000000b30a0000 + 17bd4   
+ntdll          0x00000000b48c0000 + 6ce51   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>532</ThreadID>
+<ThreadName>HttpManagerThread</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll          0x00000000b48c0000 + 9c0f4   
+KERNELBASE     0x00000000b1850000 + 38b03   
+DontPanicV012  0x0000000082490000 + 1001a3b 
+DontPanicV012  0x0000000082490000 + a31e56  
+DontPanicV012  0x0000000082490000 + ffdacf  
+DontPanicV012  0x0000000082490000 + ff3a31  
+KERNEL32       0x00000000b30a0000 + 17bd4   
+ntdll          0x00000000b48c0000 + 6ce51   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>4476</ThreadID>
+<ThreadName>OnlineAsyncTaskThreadNull DefaultInstance(1)</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll          0x00000000b48c0000 + 9c0f4   
+KERNELBASE     0x00000000b1850000 + 38b03   
+DontPanicV012  0x0000000082490000 + 1001a3b 
+DontPanicV012  0x0000000082490000 + ceb138  
+DontPanicV012  0x0000000082490000 + ffdacf  
+DontPanicV012  0x0000000082490000 + ff3a31  
+KERNEL32       0x00000000b30a0000 + 17bd4   
+ntdll          0x00000000b48c0000 + 6ce51   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>7416</ThreadID>
+<ThreadName>PoolThread 12</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll          0x00000000b48c0000 + 9c0f4   
+KERNELBASE     0x00000000b1850000 + 38b03   
+DontPanicV012  0x0000000082490000 + 1001a3b 
+DontPanicV012  0x0000000082490000 + ceb138  
+DontPanicV012  0x0000000082490000 + ffdacf  
+DontPanicV012  0x0000000082490000 + ff3a31  
+KERNEL32       0x00000000b30a0000 + 17bd4   
+ntdll          0x00000000b48c0000 + 6ce51   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>11128</ThreadID>
+<ThreadName>PoolThread 13</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll          0x00000000b48c0000 + 9c0f4   
+KERNELBASE     0x00000000b1850000 + 38b03   
+DontPanicV012  0x0000000082490000 + 1001a3b 
+DontPanicV012  0x0000000082490000 + ceb138  
+DontPanicV012  0x0000000082490000 + ffdacf  
+DontPanicV012  0x0000000082490000 + ff3a31  
+KERNEL32       0x00000000b30a0000 + 17bd4   
+ntdll          0x00000000b48c0000 + 6ce51   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>9772</ThreadID>
+<ThreadName>PoolThread 14</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll          0x00000000b48c0000 + 9c0f4   
+KERNELBASE     0x00000000b1850000 + 38b03   
+DontPanicV012  0x0000000082490000 + 1001a3b 
+DontPanicV012  0x0000000082490000 + ceb138  
+DontPanicV012  0x0000000082490000 + ffdacf  
+DontPanicV012  0x0000000082490000 + ff3a31  
+KERNEL32       0x00000000b30a0000 + 17bd4   
+ntdll          0x00000000b48c0000 + 6ce51   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>2504</ThreadID>
+<ThreadName>PoolThread 15</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll          0x00000000b48c0000 + 9c0f4   
+KERNELBASE     0x00000000b1850000 + 38b03   
+DontPanicV012  0x0000000082490000 + 1001a3b 
+DontPanicV012  0x0000000082490000 + bf362d  
+DontPanicV012  0x0000000082490000 + bf3c33  
+DontPanicV012  0x0000000082490000 + 2824ce4 
+DontPanicV012  0x0000000082490000 + 282963f 
+DontPanicV012  0x0000000082490000 + ffdacf  
+DontPanicV012  0x0000000082490000 + ff3a31  
+KERNEL32       0x00000000b30a0000 + 17bd4   
+ntdll          0x00000000b48c0000 + 6ce51   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>1624</ThreadID>
+<ThreadName>RenderThread 1</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll          0x00000000b48c0000 + 9c6f4   
+KERNELBASE     0x00000000b1850000 + 46891   
+DontPanicV012  0x0000000082490000 + ffede8  
+DontPanicV012  0x0000000082490000 + 2829777 
+DontPanicV012  0x0000000082490000 + ffdacf  
+DontPanicV012  0x0000000082490000 + ff3a31  
+KERNEL32       0x00000000b30a0000 + 17bd4   
+ntdll          0x00000000b48c0000 + 6ce51   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>2672</ThreadID>
+<ThreadName>RTHeartBeat 1</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll          0x00000000b48c0000 + 9c0f4   
+KERNELBASE     0x00000000b1850000 + 38b03   
+DontPanicV012  0x0000000082490000 + 1001a3b 
+DontPanicV012  0x0000000082490000 + 18157ca 
+DontPanicV012  0x0000000082490000 + ffdacf  
+DontPanicV012  0x0000000082490000 + ff3a31  
+KERNEL32       0x00000000b30a0000 + 17bd4   
+ntdll          0x00000000b48c0000 + 6ce51   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>7644</ThreadID>
+<ThreadName>FMessageBus.Router</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll          0x00000000b48c0000 + 9c0f4   
+KERNELBASE     0x00000000b1850000 + 38b03   
+DontPanicV012  0x0000000082490000 + 1001a3b 
+DontPanicV012  0x0000000082490000 + 4452553 
+DontPanicV012  0x0000000082490000 + ffdacf  
+DontPanicV012  0x0000000082490000 + ff3a31  
+KERNEL32       0x00000000b30a0000 + 17bd4   
+ntdll          0x00000000b48c0000 + 6ce51   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>4360</ThreadID>
+<ThreadName>FFileTransferRunnable</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll          0x00000000b48c0000 + 9c0f4   
+KERNELBASE     0x00000000b1850000 + 38b03   
+DontPanicV012  0x0000000082490000 + 1001a3b 
+DontPanicV012  0x0000000082490000 + ceb138  
+DontPanicV012  0x0000000082490000 + ffdacf  
+DontPanicV012  0x0000000082490000 + ff3a31  
+KERNEL32       0x00000000b30a0000 + 17bd4   
+ntdll          0x00000000b48c0000 + 6ce51   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>3496</ThreadID>
+<ThreadName>PoolThread 16</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll          0x00000000b48c0000 + 9c0f4   
+KERNELBASE     0x00000000b1850000 + 38b03   
+DontPanicV012  0x0000000082490000 + 1001a3b 
+DontPanicV012  0x0000000082490000 + ceb138  
+DontPanicV012  0x0000000082490000 + ffdacf  
+DontPanicV012  0x0000000082490000 + ff3a31  
+KERNEL32       0x00000000b30a0000 + 17bd4   
+ntdll          0x00000000b48c0000 + 6ce51   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>8820</ThreadID>
+<ThreadName>PoolThread 17</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll          0x00000000b48c0000 + 9c0f4   
+KERNELBASE     0x00000000b1850000 + 38b03   
+DontPanicV012  0x0000000082490000 + 1001a3b 
+DontPanicV012  0x0000000082490000 + ceb138  
+DontPanicV012  0x0000000082490000 + ffdacf  
+DontPanicV012  0x0000000082490000 + ff3a31  
+KERNEL32       0x00000000b30a0000 + 17bd4   
+ntdll          0x00000000b48c0000 + 6ce51   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>972</ThreadID>
+<ThreadName>PoolThread 18</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll          0x00000000b48c0000 + 9c0f4   
+KERNELBASE     0x00000000b1850000 + 38b03   
+DontPanicV012  0x0000000082490000 + 1001a3b 
+DontPanicV012  0x0000000082490000 + ceb138  
+DontPanicV012  0x0000000082490000 + ffdacf  
+DontPanicV012  0x0000000082490000 + ff3a31  
+KERNEL32       0x00000000b30a0000 + 17bd4   
+ntdll          0x00000000b48c0000 + 6ce51   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>9072</ThreadID>
+<ThreadName>PoolThread 19</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll          0x00000000b48c0000 + 9c0f4   
+KERNELBASE     0x00000000b1850000 + 38b03   
+DontPanicV012  0x0000000082490000 + 1001a3b 
+DontPanicV012  0x0000000082490000 + ceb138  
+DontPanicV012  0x0000000082490000 + ffdacf  
+DontPanicV012  0x0000000082490000 + ff3a31  
+KERNEL32       0x00000000b30a0000 + 17bd4   
+ntdll          0x00000000b48c0000 + 6ce51   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>4348</ThreadID>
+<ThreadName>PoolThread 20</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll          0x00000000b48c0000 + 9c0f4   
+KERNELBASE     0x00000000b1850000 + 38b03   
+DontPanicV012  0x0000000082490000 + 1001a3b 
+DontPanicV012  0x0000000082490000 + ceb138  
+DontPanicV012  0x0000000082490000 + ffdacf  
+DontPanicV012  0x0000000082490000 + ff3a31  
+KERNEL32       0x00000000b30a0000 + 17bd4   
+ntdll          0x00000000b48c0000 + 6ce51   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>2752</ThreadID>
+<ThreadName>PoolThread 21</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll          0x00000000b48c0000 + 9c6f4   
+KERNELBASE     0x00000000b1850000 + 46891   
+DontPanicV012  0x0000000082490000 + ffede8  
+DontPanicV012  0x0000000082490000 + 3caeaa1 
+DontPanicV012  0x0000000082490000 + ffdacf  
+DontPanicV012  0x0000000082490000 + ff3a31  
+KERNEL32       0x00000000b30a0000 + 17bd4   
+ntdll          0x00000000b48c0000 + 6ce51   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>9172</ThreadID>
+<ThreadName>ScreenSaverInhibitor</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll          0x00000000b48c0000 + 9c0f4   
+KERNELBASE     0x00000000b1850000 + 38b03   
+DontPanicV012  0x0000000082490000 + 1001a3b 
+DontPanicV012  0x0000000082490000 + bf362d  
+DontPanicV012  0x0000000082490000 + bf3c33  
+DontPanicV012  0x0000000082490000 + 31615cd 
+DontPanicV012  0x0000000082490000 + ffdacf  
+DontPanicV012  0x0000000082490000 + ff3a31  
+KERNEL32       0x00000000b30a0000 + 17bd4   
+ntdll          0x00000000b48c0000 + 6ce51   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>8544</ThreadID>
+<ThreadName>AudioThread</ThreadName>
+</Thread>
+</Threads>
+</RuntimeProperties>
+<PlatformProperties>
+<PlatformIsRunningWindows>1</PlatformIsRunningWindows>
+<PlatformCallbackResult>0</PlatformCallbackResult>
+<IsRunningOnBattery>true</IsRunningOnBattery>
+</PlatformProperties>
+<EngineData>
+<RHI.RHIName>D3D11</RHI.RHIName>
+<RHI.AdapterName>NVIDIA GeForce RTX 2060</RHI.AdapterName>
+<RHI.UserDriverVersion>451.67</RHI.UserDriverVersion>
+<RHI.InternalDriverVersion>27.21.14.5167</RHI.InternalDriverVersion>
+<RHI.DriverDate>7-5-2020</RHI.DriverDate>
+<RHI.FeatureLevel>SM5</RHI.FeatureLevel>
+<Platform.AppHasFocus>true</Platform.AppHasFocus>
+</EngineData>
+<GameData>
+</GameData>
+</FGenericCrashContext>
